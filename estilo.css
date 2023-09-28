@@ -113,7 +113,7 @@ main section:nth-child(1) article:nth-child(1) {
   margin: 0 auto;
   float: none;
 }
-main section:nth-child(1) article:nth-child(1) h5 {
+main section:nth-child(1) article:nth-child(1) h3 {
   width: 80%;
   font-size: 1.2em;
   color: #000;
@@ -135,7 +135,7 @@ main section:nth-child(1) article:nth-child(2) {
   margin: 0 auto;
   float: none;
 }
-main section:nth-child(1) article:nth-child(2) h5 {
+main section:nth-child(1) article:nth-child(2) h3 {
   width: 35%;
   font-size: 1.2em;
   color: #000;
@@ -175,7 +175,7 @@ main section:nth-child(1) article:nth-child(3) {
   margin: 0 auto;
   float: none;
 }
-main section:nth-child(1) article:nth-child(3) h5 {
+main section:nth-child(1) article:nth-child(3) h3 {
   width: 43%;
   font-size: 1.2em;
   color: #000;
@@ -196,7 +196,7 @@ main section:nth-child(1) article:nth-child(4) {
   margin: 0 auto;
   float: none;
 }
-main section:nth-child(1) article:nth-child(4) h5 {
+main section:nth-child(1) article:nth-child(4) h3 {
   width: 43%;
   font-size: 1.2em;
   color: #000;
